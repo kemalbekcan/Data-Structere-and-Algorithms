@@ -7,3 +7,4 @@
 
 ### Coding Challange
  - Alphabet Position
+ - Spin Words
