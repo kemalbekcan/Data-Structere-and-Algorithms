@@ -9,3 +9,4 @@
  - Alphabet Position
  - Spin Words
  - Sum Of Digits
+ - Who Likes It
