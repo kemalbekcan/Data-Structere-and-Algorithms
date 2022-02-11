@@ -5,7 +5,7 @@
  - Stack
  - Sets
 
-### Coding Challange
+### Code Wars Coding Challange
  - Alphabet Position
  - Spin Words
  - Sum Of Digits
