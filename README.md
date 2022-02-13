@@ -10,3 +10,4 @@
  - Spin Words
  - Sum Of Digits
  - Who Likes It
+ - Roman Numeral Encoder
