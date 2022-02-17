@@ -1,7 +1,7 @@
 # Data-Structere-and-Algorithms
 
 `Data Structeres and Algorithms` 
- - Polindrome
+ - Polindromes
  - Stack
  - Sets
 
